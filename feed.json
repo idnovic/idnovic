@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Ivo Damjanovic",
+	"icon": "https://micro.blog/idnovic/avatar.jpg",
+	"home_page_url": "https://damjanovic.it/",
+	"feed_url": "https://damjanovic.it/feed.json",
+	"items": [
+		
+			{
+				"id": "http://idnovic.micro.blog/2023/11/06/work-in-progresscome.html",
+				"title": "Loading...",
+				"content_html": "<p>Work in Progress.\nCome back later.</p>\n",
+				"content_text": "Work in Progress.\nCome back later.\n",
+				"date_published": "2023-11-06T21:59:03+01:00",
+				"url": "https://damjanovic.it/2023/11/06/work-in-progresscome.html"
+			}
+	]
+}
