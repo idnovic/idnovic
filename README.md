@@ -1,4 +1,4 @@
-### Hi, I'm Ivo! &nbsp;&nbsp;<sup>👾 &#12299;I secure ALL the things. Cybersecurity & InfoSec advocate. Occasionally, I play keyboard.</sup>
+### Hi, I'm Ivo! &nbsp;&nbsp;<sup>👾 &#12299;I secure ALL the things. Cybersecurity & InfoSec advocate. Occasionally, I play keyboard or take pictures.</sup>
 
 ----
 
