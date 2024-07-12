@@ -36,4 +36,4 @@
   <img align="left" alt="Ivo's Xing" width="20px" src="https://simpleicons.now.sh/xing/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; My Work : <sub>&#9660; &#9660; &#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Personal Profile : [https://damjanovic.page](https://damjanovic.page) &nbsp;&nbsp;&nbsp;</sub>
