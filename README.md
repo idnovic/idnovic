@@ -27,7 +27,7 @@
   <img align="left" alt="Ivo's Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
 </a>
 <a href="https://bsky.app/profile/damjanovic.it">
-  <img align="left" alt="Ivo's Bluesky" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Ivo's Bluesky" width="20px" src="https://simpleicons.now.sh/bluesky/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/ivodamjanovic">
   <img align="left" alt="Ivo's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
