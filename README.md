@@ -18,7 +18,7 @@
 |`R`| | | | | | | | | | |
 | | | | |`I`|`N`|`F`|`O`|`S`|`E`|`C`| |
 | |`B`| | | | | | |`O`| | |
-| |`S`| | |[📸](https://pixelfed.social/i/web/profile/627302286713105158)| | | |`C`| | |
+| |`S`| | |[📸]([https:/](https://portfolio.pixelfed.social/idnovic)| | | |`C`| | |
 | |`I`| | | | | | | | | |
 
 ----
