@@ -18,7 +18,7 @@
 |`R`| | | | | | | | | | |
 | | | | |`I`|`N`|`F`|`O`|`S`|`E`|`C`| |
 | |`B`| | | | | | |`O`| | |
-| |`S`| | |[📸]([https:/](https://portfolio.pixelfed.social/idnovic)| | | |`C`| | |
+| |`S`| | |[📸](https://portfolio.pixelfed.social/idnovic)| | | |`C`| | |
 | |`I`| | | | | | | | | |
 
 ----
@@ -36,4 +36,4 @@
   <img align="left" alt="Ivo's Xing" width="20px" src="https://simpleicons.vercel.app/xing/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Personal Profile : [https://damjanovic.page](https://damjanovic.page) &nbsp;&nbsp;&nbsp;</sub>
+| &nbsp;&nbsp;&nbsp; Blog Posts : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Personal Website : [https://damjanovic.page](https://damjanovic.page) &nbsp;&nbsp;&nbsp;</sub>
