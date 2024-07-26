@@ -1,4 +1,4 @@
-### Hi, I'm Ivo! &nbsp;&nbsp;<sup>👾 &#12299;I secure ALL the things. Cybersecurity & InfoSec advocate. Occasionally, I play keyboard or take pictures.</sup>
+### Hi, I'm Ivo! &nbsp;&nbsp;<sup> &#12299;Cybersecurity & Information Security advocate. Sometimes, I play the keyboard or take photographs.</sup>
 
 ----
 
@@ -11,7 +11,7 @@
 | | |`P`| | | | | | | |`M`|
 | |`D`|`E`|`S`|`I`|`G`|`N`| | | |`U`|
 | | |`N`| | | | | |`C`| |`S`|
-|`C`| |`T`| |[🧾](https://resume.damjanovic.it) | |`C`| |`O`| |`I`|
+|`C`| |`T`| |[🧾](https://damjanovic.it/resume) | |`C`| |`O`| |`I`|
 |`Y`| |`E`| | | |`O`| |`L`| |`C`|
 |`B`| |`S`| | | |`D`| |`O`| | |
 |`E`| |`T`| |`C`|`V`|`E`| |`R`| | |
@@ -36,4 +36,4 @@
   <img align="left" alt="Ivo's Xing" width="20px" src="https://simpleicons.vercel.app/xing/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Blog Posts : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Personal Website : [https://damjanovic.page](https://damjanovic.page) &nbsp;&nbsp;&nbsp;</sub>
+| &nbsp;&nbsp;&nbsp; Blog Posts : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; About Me : [https://damjanovic.page](https://damjanovic.page) &nbsp;&nbsp;&nbsp;</sub>
