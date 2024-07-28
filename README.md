@@ -23,12 +23,7 @@
 
 ----
 
-<a href="https://social.tchncs.de/@idnovic">
-  <img align="left" alt="Ivo's Mastodon" width="20px" src="https://simpleicons.vercel.app/mastodon/495f7e" />
-</a>
-<a href="https://bsky.app/profile/damjanovic.it">
-  <img align="left" alt="Ivo's Bluesky" width="20px" src="https://simpleicons.vercel.app/bluesky/495f7e" />
-</a>
+
 <a href="https://www.linkedin.com/in/ivodamjanovic">
   <img align="left" alt="Ivo's LinkedIn" width="20px" src="https://simpleicons.vercel.app/linkedin/495f7e" />
 </a>
@@ -36,4 +31,4 @@
   <img align="left" alt="Ivo's Xing" width="20px" src="https://simpleicons.vercel.app/xing/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Blog Posts : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; About Me : [https://damjanovic.page](https://damjanovic.page) &nbsp;&nbsp;&nbsp;</sub>
+| &nbsp;&nbsp;&nbsp; Blog Posts : [https://damjanovic.it](https://damjanovic.it) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; About Me : [https://damjanovic.it/about](https://damjanovic.it/about/) &nbsp;&nbsp;&nbsp;</sub>
