@@ -1,8 +1,8 @@
-### Hi, I'm Ivo! &nbsp;&nbsp;<sup> &#12299;Cybersecurity & Information Security advocate. Sometimes, I play the keyboard or take photographs.</sup>
+### Hi, I'm Ivo! &nbsp;&nbsp;<sup> &#12299;Information Security Practitioner. Sometimes, I play the keyboard or take photographs.</sup>
 
 ----
 
-**Cybersecurity & InfoSec** &#12299;_working in Purple Team._
+**Information Security** &#12299;_working in Purple Team._
 <br/>
 
 
