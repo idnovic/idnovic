@@ -1,11 +1,29 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Ivo Damjanović’s Blog",
+	"title": "Ivo Damjanović",
 	"icon": "https://micro.blog/idnovic/avatar.jpg",
 	"home_page_url": "https://damjanovic.it/",
 	"feed_url": "https://damjanovic.it/feed.json",
 	"items": [
 		
+			{
+				"id": "http://idnovic.micro.blog/2024/07/29/bookmarks.html",
+				"title": "Bookmarks",
+				"content_html": "\n\n\n\n\n  <p><strong>🔖 Bookmarks Shortcode:</strong> Sorry, no bookmarks found. If you're the owner of this blog, please double-check the plug-in settings.</p>\n\n\n",
+				"content_text": "{{< bookmarks />}}\n",
+				"date_published": "2024-07-29T03:38:05+02:00",
+				"url": "https://damjanovic.it/2024/07/29/bookmarks.html",
+				"tags": ["Notes"]
+			},
+			{
+				"id": "http://idnovic.micro.blog/2024/07/29/bookgoals.html",
+				"title": "Reading Goals",
+				"content_html": "\n\n\n\n\n\n\n<ul class=\"bookshelf bookshelf--variant-grid\">\n  \n    <li>\n      <div class=\"bookshelf__item\" title=\"Wir kommen by Ronja von Rönne\">\n        <a href=\"https://micro.blog/books/9783841210579\">\n          <img class=\"bookshelf__cover\" src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3DLoCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" />\n        </a>\n        <div class=\"bookshelf__meta\">\n          <a href=\"https://micro.blog/books/9783841210579\">\n            <h3 class=\"bookshelf__title\">Wir kommen</h3>\n          </a>\n          <span class=\"bookshelf__by\">by</span>\n          <span class=\"bookshelf__author\">Ronja von Rönne</span>\n        </div>\n      </div>\n    </li>\n  \n</ul>\n\n",
+				"content_text": "{{< bookshelf shelf=\"finishedreading\" variant=\"grid\" >}}\n",
+				"date_published": "2024-07-29T03:04:16+02:00",
+				"url": "https://damjanovic.it/2024/07/29/bookgoals.html",
+				"tags": ["Books"]
+			},
 			{
 				"id": "http://idnovic.micro.blog/2023/11/26/my-defaults.html",
 				"title": "My Defaults",
